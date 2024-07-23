@@ -1,7 +1,19 @@
 ---
 title: "My First Website"
+execute: 
+  echo: false
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+```{r}
+#| message: false
+#| label: setup
+
+library(tidyverse)
+```
+
+```{r}
+#| label: diamonds-plot
+```
+
+
