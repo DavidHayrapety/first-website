@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Davit Hayrapetyan
+## About Me
+
+My name is **Davit Hayrapetyan** and I graduated from *Kapan's 3rd secondary school*.
+
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)
